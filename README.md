@@ -1,4 +1,4 @@
-# 📊 Week 5: Exploratory Data Analysis (EDA)
+# 📊 Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a student performance dataset. The goal is to uncover patterns, trends, and relationships in learner data to support academic decision-making and improve future interventions.
